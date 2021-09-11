@@ -1,5 +1,14 @@
 /* Product grid */
 
+.powered {
+  color: #9aca40;
+}
+
+.powered:hover {
+  color: #9aca40;
+  text-decoration: underline;
+}
+
 .grid {
   position: relative;
   overflow: hidden;
@@ -146,7 +155,7 @@
 }
 
 .action--button {
-  color: #5c5edc;
+  color: #9aca40;
 }
 
 .no-touch .action--button:hover {
@@ -227,8 +236,8 @@
 }
 
 .filter__item--selected {
-  color: #a3a3b3;
-  border-color: #a3a3b3;
+  color: #9aca40;
+  border-color: #9aca40;
 }
 
 .filter__item .icon {
