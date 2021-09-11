@@ -1,0 +1,19 @@
+{
+  "name": "filterableproductgrid",
+  "version": "1.0.0",
+  "description": "A responsive product grid layout with touch-friendly Flickity galleries and Isotope-powered filter functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.24.2",
+    "prettier": "^2.4.0"
+  }
+}
